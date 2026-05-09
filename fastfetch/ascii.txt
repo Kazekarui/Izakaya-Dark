@@ -1,0 +1,10 @@
+{
+	"logo": {
+		"type": "file",
+		"source": "/home/rui/Documents/asciiskull.txt",
+		"color": {
+			"1": "yellow"
+		}
+	},
+	"modules": [ ... ]
+}

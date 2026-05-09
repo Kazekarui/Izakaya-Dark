@@ -1,0 +1,51 @@
+* {
+  font-family: "JetBrainsMono Nerd Font";
+}
+
+.notification-row,
+.notification,
+.control-center,
+.widget-dnd,
+.widget-title,
+.widget-buttons-grid,
+.widget-menubar,
+.widget-volume,
+.widget-backlight,
+.widget-mpris {
+  background: rgba(15, 10, 6, 0.94);
+  color: #e8dcc8;
+}
+
+.control-center {
+  border-radius: 16px;
+  padding: 12px;
+  border: 1px solid rgba(196, 152, 42, 0.18);
+}
+
+.notification {
+  border-radius: 12px;
+  margin: 6px 0;
+  padding: 10px;
+  border: 1px solid rgba(196, 152, 42, 0.12);
+}
+
+button, .toggle {
+  background: rgba(28, 20, 9, 0.85);
+  color: #e8dcc8;
+  border-radius: 10px;
+  border: 1px solid rgba(196, 152, 42, 0.15);
+}
+
+button:hover, .toggle:hover {
+  background: rgba(196, 152, 42, 0.18);
+}
+
+progressbar trough {
+  background: rgba(232, 220, 200, 0.10);
+  border-radius: 999px;
+}
+
+progressbar progress {
+  background: #c4982a;
+  border-radius: 999px;
+}
