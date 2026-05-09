@@ -16,7 +16,7 @@ This configuration is built for Hyprland. If you're on another compositor, it wo
 
 <img width="1920" height="1200" alt="2026-05-09-183442_hyprshot" src="https://github.com/user-attachments/assets/e75dfdd8-a11f-44da-aa9f-358161efc4e5" />
 
-<img width="1920" height="1200" alt="2026-04-14-181201_hyprshot" src="https://github.com/user-attachments/assets/afe70e09-bb23-4c81-a308-59629badb48e" />
+<img width="1920" height="1200" alt="2026-05-09-183808_hyprshot" src="https://github.com/user-attachments/assets/0ba3499c-1038-4a2a-acfb-ed709cda927f" />
 
 ---
 
