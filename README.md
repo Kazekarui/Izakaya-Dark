@@ -6,6 +6,20 @@ This configuration is built for Hyprland. If you're on another compositor, it wo
 
 ---
 
+# Preview
+
+<img width="1920" height="1200" alt="2026-05-09-183522_hyprshot" src="https://github.com/user-attachments/assets/50e323e8-3339-4e39-ae27-49079714dd09" />
+
+<img width="1920" height="1200" alt="2026-05-09-183508_hyprshot" src="https://github.com/user-attachments/assets/e1310a4b-cdf0-4b21-aa50-6454ed619b24" />
+
+<img width="1920" height="1200" alt="2026-05-09-183458_hyprshot" src="https://github.com/user-attachments/assets/58fd11ce-10f3-486a-9d9c-e7ad127b3b5f" />
+
+<img width="1920" height="1200" alt="2026-05-09-183442_hyprshot" src="https://github.com/user-attachments/assets/e75dfdd8-a11f-44da-aa9f-358161efc4e5" />
+
+<img width="1920" height="1200" alt="2026-04-14-181201_hyprshot" src="https://github.com/user-attachments/assets/afe70e09-bb23-4c81-a308-59629badb48e" />
+
+---
+
 ## Stack
 
 - **WM:** Hyprland
